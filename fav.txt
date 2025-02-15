@@ -1,3 +1,5 @@
-aura
+full stack development
+project
+ui/ux designaura
 git
 visual basic
